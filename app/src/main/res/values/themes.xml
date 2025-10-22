@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FocusTime" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/apple_blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/apple_light_gray</item>
+        <item name="colorOnPrimaryContainer">@color/apple_text_dark</item>
+        <item name="colorSecondary">@color/timer_button_pause</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">@color/apple_light_gray</item>
+        <item name="colorOnSecondaryContainer">@color/apple_text_dark</item>
+        <item name="colorTertiary">@color/timer_button_lap</item>
+        <item name="colorOnTertiary">@color/white</item>
+        <item name="colorTertiaryContainer">@color/apple_light_gray</item>
+        <item name="colorOnTertiaryContainer">@color/apple_text_dark</item>
+        <item name="colorError">@color/timer_button_reset</item>
+        <item name="colorOnError">@color/white</item>
+        <item name="colorErrorContainer">@color/apple_light_gray</item>
+        <item name="colorOnErrorContainer">@color/timer_button_reset</item>
+        <item name="android:colorBackground">@color/apple_white</item>
+        <item name="colorOnBackground">@color/apple_text_dark</item>
+        <item name="colorSurface">@color/apple_white</item>
+        <item name="colorOnSurface">@color/apple_text_dark</item>
+        <item name="colorSurfaceVariant">@color/apple_light_gray</item>
+        <item name="colorOnSurfaceVariant">@color/apple_text_light</item>
+        <item name="colorOutline">@color/apple_text_light</item>
+        <item name="colorOnSurfaceInverse">@color/apple_text_dark</item>
+        <item name="colorSurfaceInverse">@color/apple_light_gray</item>
+        <item name="colorPrimaryInverse">@color/apple_blue</item>
+    </style>
+
+    <style name="Theme.FocusTime" parent="Base.Theme.FocusTime" />
+</resources>

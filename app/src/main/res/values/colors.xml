@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Logo Page Colors -->
+    <color name="logo_light_blue">#64B5F6</color>
+    <color name="logo_deep_navy">#0D47A1</color>
+    <color name="logo_off_white">#FAFAFA</color>
+    <color name="logo_soft_white">#FFFFFFB3</color>
+    
+    <!-- Apple-style Task List Colors -->
+    <color name="apple_white">#FFFFFF</color>
+    <color name="apple_light_gray">#F7F7F7</color>
+    <color name="apple_dark_gray">#0A0A0A</color>
+    <color name="apple_text_dark">#1C1C1C</color>
+    <color name="apple_text_light">#7D7D7D</color>
+    <color name="apple_text_empty">#9B9B9B</color>
+    <color name="apple_blue">#007AFF</color>
+    <color name="apple_card_shadow">#E5E5E5</color>
+    <color name="apple_modal_overlay">#80000000</color>
+    
+    <!-- Timer Screen Colors -->
+    <color name="timer_gradient_start">#E0F7FA</color>
+    <color name="timer_gradient_end">#B2EBF2</color>
+    <color name="timer_text_dark">#1C1C1C</color>
+    <color name="timer_text_light">#7D7D7D</color>
+    <color name="timer_button_start">#007AFF</color>
+    <color name="timer_button_pause">#FF9500</color>
+    <color name="timer_button_reset">#FF3B30</color>
+    <color name="timer_button_lap">#34C759</color>
+    <color name="timer_lap_background">#F8F9FA</color>
+    
+    <!-- Navigation Colors - Apple Pages Style -->
+    <color name="nav_active">#007AFF</color>
+    <color name="nav_inactive">#8E8E93</color>
+    <color name="nav_background">#FFFFFF</color>
+    <color name="nav_shadow">#E5E5EA</color>
+    
+    <!-- Settings Colors -->
+    <color name="settings_background">#FFFFFF</color>
+    <color name="settings_section_background">#F7F7F7</color>
+    <color name="settings_text_dark">#0A0A0A</color>
+    <color name="settings_text_light">#8E8E93</color>
+    <color name="settings_switch_active">#007AFF</color>
+    <color name="settings_danger">#FF3B30</color>
+    <color name="settings_card_background">#FFFFFF</color>
+    <color name="settings_card_shadow">#E5E5E5</color>
+</resources>
